@@ -1,0 +1,1 @@
+{"latest":"v2.4.0","notes":"v2.4.0 更新：优化 PNG 压缩算法；新增 JPEG 压缩支持；PSD 压缩保留切片信息；修复自动更新（DMG 自动挂载、启动弹窗提示）。","download_url":"https://github.com/bunnyandfairy1-art/-/releases/download/v2.4.0/compress-duck-v2.4.0.dmg"}
