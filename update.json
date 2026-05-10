@@ -1,2 +1,1 @@
-{"latest":"2.5.0","notes":"新增 PDF 压缩模块（纯 Python 实现，无需安装 Ghostscript）
-支持三档压缩：最小体积 / 均衡 / 高质量","download_url":"https://github.com/bunnyandfairy1-art/-/releases/download/v2.5.0/compress-duck-v2.5.0.dmg"}
+{"latest": "2.5.0", "notes": "新增 PDF 压缩模块（纯 Python 实现，无需安装 Ghostscript），支持三档压缩：最小体积 / 均衡 / 高质量", "download_url": "https://github.com/bunnyandfairy1-art/-/releases/download/v2.5.0/compress-duck-v2.5.0.dmg"}
